@@ -1,0 +1,102 @@
+C:\Users\ZK948AG\source\repos\Capstone_Delta\OrderServices\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\ZK948AG\source\repos\Capstone_Delta\OrderServices\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\ZK948AG\source\repos\Capstone_Delta\OrderServices\bin\Debug\netcoreapp3.1\OrderServices.exe
+C:\Users\ZK948AG\source\repos\Capstone_Delta\OrderServices\bin\Debug\netcoreapp3.1\OrderServices.deps.json
+C:\Users\ZK948AG\source\repos\Capstone_Delta\OrderServices\bin\Debug\netcoreapp3.1\OrderServices.runtimeconfig.json
+C:\Users\ZK948AG\source\repos\Capstone_Delta\OrderServices\bin\Debug\netcoreapp3.1\OrderServices.runtimeconfig.dev.json
+C:\Users\ZK948AG\source\repos\Capstone_Delta\OrderServices\bin\Debug\netcoreapp3.1\OrderServices.dll
+C:\Users\ZK948AG\source\repos\Capstone_Delta\OrderServices\bin\Debug\netcoreapp3.1\OrderServices.pdb
+C:\Users\ZK948AG\source\repos\Capstone_Delta\OrderServices\obj\Debug\netcoreapp3.1\OrderServices.csproj.AssemblyReference.cache
+C:\Users\ZK948AG\source\repos\Capstone_Delta\OrderServices\obj\Debug\netcoreapp3.1\OrderServices.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ZK948AG\source\repos\Capstone_Delta\OrderServices\obj\Debug\netcoreapp3.1\OrderServices.AssemblyInfoInputs.cache
+C:\Users\ZK948AG\source\repos\Capstone_Delta\OrderServices\obj\Debug\netcoreapp3.1\OrderServices.AssemblyInfo.cs
+C:\Users\ZK948AG\source\repos\Capstone_Delta\OrderServices\obj\Debug\netcoreapp3.1\OrderServices.csproj.CoreCompileInputs.cache
+C:\Users\ZK948AG\source\repos\Capstone_Delta\OrderServices\obj\Debug\netcoreapp3.1\OrderServices.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ZK948AG\source\repos\Capstone_Delta\OrderServices\obj\Debug\netcoreapp3.1\staticwebassets\OrderServices.StaticWebAssets.Manifest.cache
+C:\Users\ZK948AG\source\repos\Capstone_Delta\OrderServices\obj\Debug\netcoreapp3.1\staticwebassets\OrderServices.StaticWebAssets.xml
+C:\Users\ZK948AG\source\repos\Capstone_Delta\OrderServices\obj\Debug\netcoreapp3.1\scopedcss\bundle\OrderServices.styles.css
+C:\Users\ZK948AG\source\repos\Capstone_Delta\OrderServices\obj\Debug\netcoreapp3.1\OrderServices.RazorTargetAssemblyInfo.cache
+C:\Users\ZK948AG\source\repos\Capstone_Delta\OrderServices\obj\Debug\netcoreapp3.1\OrderServices.dll
+C:\Users\ZK948AG\source\repos\Capstone_Delta\OrderServices\obj\Debug\netcoreapp3.1\OrderServices.pdb
+C:\Users\ZK948AG\source\repos\Capstone_Delta\OrderServices\obj\Debug\netcoreapp3.1\OrderServices.genruntimeconfig.cache
+C:\Users\ZK948AG\source\repos\Capstone_Delta\OrderServices\bin\Debug\netcoreapp3.1\MediatR.dll
+C:\Users\ZK948AG\source\repos\Capstone_Delta\OrderServices\bin\Debug\netcoreapp3.1\MediatR.Contracts.dll
+C:\Users\ZK948AG\source\repos\Capstone_Delta\OrderServices\bin\Debug\netcoreapp3.1\MediatR.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\ZK948AG\source\repos\Capstone_Delta\OrderServices\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\ZK948AG\source\repos\Capstone_Delta\OrderServices\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\ZK948AG\source\repos\Capstone_Delta\OrderServices\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\ZK948AG\source\repos\Capstone_Delta\OrderServices\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\ZK948AG\source\repos\Capstone_Delta\OrderServices\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\ZK948AG\source\repos\Capstone_Delta\OrderServices\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\ZK948AG\source\repos\Capstone_Delta\OrderServices\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\ZK948AG\source\repos\Capstone_Delta\OrderServices\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\ZK948AG\source\repos\Capstone_Delta\OrderServices\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\ZK948AG\source\repos\Capstone_Delta\OrderServices\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\ZK948AG\source\repos\Capstone_Delta\OrderServices\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\ZK948AG\source\repos\Capstone_Delta\OrderServices\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\ZK948AG\source\repos\Capstone_Delta\OrderServices\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\ZK948AG\source\repos\Capstone_Delta\OrderServices\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\ZK948AG\source\repos\Capstone_Delta\OrderServices\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\ZK948AG\source\repos\Capstone_Delta\OrderServices\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\ZK948AG\source\repos\Capstone_Delta\OrderServices\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ZK948AG\source\repos\Capstone_Delta\OrderServices\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\ZK948AG\source\repos\Capstone_Delta\OrderServices\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\ZK948AG\source\repos\Capstone_Delta\OrderServices\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\ZK948AG\source\repos\Capstone_Delta\OrderServices\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\ZK948AG\source\repos\Capstone_Delta\OrderServices\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\ZK948AG\source\repos\Capstone_Delta\OrderServices\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\ZK948AG\source\repos\Capstone_Delta\OrderServices\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\ZK948AG\source\repos\Capstone_Delta\OrderServices\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ZK948AG\source\repos\Capstone_Delta\OrderServices\obj\Debug\netcoreapp3.1\OrderServices.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\ZK948AG\source\repos\Capstone_Delta\OrderServices\obj\Debug\netcoreapp3.1\OrderServices.csproj.CopyComplete
+C:\Users\ZK948AG\OneDrive - EY\Documents\GitHub\Capstone\OrderServices\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\ZK948AG\OneDrive - EY\Documents\GitHub\Capstone\OrderServices\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\ZK948AG\OneDrive - EY\Documents\GitHub\Capstone\OrderServices\bin\Debug\netcoreapp3.1\OrderServices.exe
+C:\Users\ZK948AG\OneDrive - EY\Documents\GitHub\Capstone\OrderServices\bin\Debug\netcoreapp3.1\OrderServices.deps.json
+C:\Users\ZK948AG\OneDrive - EY\Documents\GitHub\Capstone\OrderServices\bin\Debug\netcoreapp3.1\OrderServices.runtimeconfig.json
+C:\Users\ZK948AG\OneDrive - EY\Documents\GitHub\Capstone\OrderServices\bin\Debug\netcoreapp3.1\OrderServices.runtimeconfig.dev.json
+C:\Users\ZK948AG\OneDrive - EY\Documents\GitHub\Capstone\OrderServices\bin\Debug\netcoreapp3.1\OrderServices.dll
+C:\Users\ZK948AG\OneDrive - EY\Documents\GitHub\Capstone\OrderServices\bin\Debug\netcoreapp3.1\OrderServices.pdb
+C:\Users\ZK948AG\OneDrive - EY\Documents\GitHub\Capstone\OrderServices\bin\Debug\netcoreapp3.1\MediatR.dll
+C:\Users\ZK948AG\OneDrive - EY\Documents\GitHub\Capstone\OrderServices\bin\Debug\netcoreapp3.1\MediatR.Contracts.dll
+C:\Users\ZK948AG\OneDrive - EY\Documents\GitHub\Capstone\OrderServices\bin\Debug\netcoreapp3.1\MediatR.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\ZK948AG\OneDrive - EY\Documents\GitHub\Capstone\OrderServices\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\ZK948AG\OneDrive - EY\Documents\GitHub\Capstone\OrderServices\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\ZK948AG\OneDrive - EY\Documents\GitHub\Capstone\OrderServices\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\ZK948AG\OneDrive - EY\Documents\GitHub\Capstone\OrderServices\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\ZK948AG\OneDrive - EY\Documents\GitHub\Capstone\OrderServices\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\ZK948AG\OneDrive - EY\Documents\GitHub\Capstone\OrderServices\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\ZK948AG\OneDrive - EY\Documents\GitHub\Capstone\OrderServices\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\ZK948AG\OneDrive - EY\Documents\GitHub\Capstone\OrderServices\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\ZK948AG\OneDrive - EY\Documents\GitHub\Capstone\OrderServices\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\ZK948AG\OneDrive - EY\Documents\GitHub\Capstone\OrderServices\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\ZK948AG\OneDrive - EY\Documents\GitHub\Capstone\OrderServices\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\ZK948AG\OneDrive - EY\Documents\GitHub\Capstone\OrderServices\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\ZK948AG\OneDrive - EY\Documents\GitHub\Capstone\OrderServices\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\ZK948AG\OneDrive - EY\Documents\GitHub\Capstone\OrderServices\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\ZK948AG\OneDrive - EY\Documents\GitHub\Capstone\OrderServices\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\ZK948AG\OneDrive - EY\Documents\GitHub\Capstone\OrderServices\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\ZK948AG\OneDrive - EY\Documents\GitHub\Capstone\OrderServices\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ZK948AG\OneDrive - EY\Documents\GitHub\Capstone\OrderServices\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\ZK948AG\OneDrive - EY\Documents\GitHub\Capstone\OrderServices\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\ZK948AG\OneDrive - EY\Documents\GitHub\Capstone\OrderServices\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\ZK948AG\OneDrive - EY\Documents\GitHub\Capstone\OrderServices\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\ZK948AG\OneDrive - EY\Documents\GitHub\Capstone\OrderServices\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\ZK948AG\OneDrive - EY\Documents\GitHub\Capstone\OrderServices\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\ZK948AG\OneDrive - EY\Documents\GitHub\Capstone\OrderServices\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\ZK948AG\OneDrive - EY\Documents\GitHub\Capstone\OrderServices\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ZK948AG\OneDrive - EY\Documents\GitHub\Capstone\OrderServices\obj\Debug\netcoreapp3.1\OrderServices.csproj.AssemblyReference.cache
+C:\Users\ZK948AG\OneDrive - EY\Documents\GitHub\Capstone\OrderServices\obj\Debug\netcoreapp3.1\OrderServices.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ZK948AG\OneDrive - EY\Documents\GitHub\Capstone\OrderServices\obj\Debug\netcoreapp3.1\OrderServices.AssemblyInfoInputs.cache
+C:\Users\ZK948AG\OneDrive - EY\Documents\GitHub\Capstone\OrderServices\obj\Debug\netcoreapp3.1\OrderServices.AssemblyInfo.cs
+C:\Users\ZK948AG\OneDrive - EY\Documents\GitHub\Capstone\OrderServices\obj\Debug\netcoreapp3.1\OrderServices.csproj.CoreCompileInputs.cache
+C:\Users\ZK948AG\OneDrive - EY\Documents\GitHub\Capstone\OrderServices\obj\Debug\netcoreapp3.1\OrderServices.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\ZK948AG\OneDrive - EY\Documents\GitHub\Capstone\OrderServices\obj\Debug\netcoreapp3.1\OrderServices.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ZK948AG\OneDrive - EY\Documents\GitHub\Capstone\OrderServices\obj\Debug\netcoreapp3.1\staticwebassets\OrderServices.StaticWebAssets.Manifest.cache
+C:\Users\ZK948AG\OneDrive - EY\Documents\GitHub\Capstone\OrderServices\obj\Debug\netcoreapp3.1\staticwebassets\OrderServices.StaticWebAssets.xml
+C:\Users\ZK948AG\OneDrive - EY\Documents\GitHub\Capstone\OrderServices\obj\Debug\netcoreapp3.1\scopedcss\bundle\OrderServices.styles.css
+C:\Users\ZK948AG\OneDrive - EY\Documents\GitHub\Capstone\OrderServices\obj\Debug\netcoreapp3.1\OrderServices.RazorTargetAssemblyInfo.cache
+C:\Users\ZK948AG\OneDrive - EY\Documents\GitHub\Capstone\OrderServices\obj\Debug\netcoreapp3.1\OrderServices.csproj.CopyComplete
+C:\Users\ZK948AG\OneDrive - EY\Documents\GitHub\Capstone\OrderServices\obj\Debug\netcoreapp3.1\OrderServices.dll
+C:\Users\ZK948AG\OneDrive - EY\Documents\GitHub\Capstone\OrderServices\obj\Debug\netcoreapp3.1\OrderServices.pdb
+C:\Users\ZK948AG\OneDrive - EY\Documents\GitHub\Capstone\OrderServices\obj\Debug\netcoreapp3.1\OrderServices.genruntimeconfig.cache

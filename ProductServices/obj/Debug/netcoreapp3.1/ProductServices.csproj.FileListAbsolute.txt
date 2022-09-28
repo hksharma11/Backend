@@ -1,0 +1,102 @@
+C:\Users\ZK948AG\source\repos\Capstone_Delta\ProductServices\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\ZK948AG\source\repos\Capstone_Delta\ProductServices\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\ZK948AG\source\repos\Capstone_Delta\ProductServices\bin\Debug\netcoreapp3.1\ProductServices.exe
+C:\Users\ZK948AG\source\repos\Capstone_Delta\ProductServices\bin\Debug\netcoreapp3.1\ProductServices.deps.json
+C:\Users\ZK948AG\source\repos\Capstone_Delta\ProductServices\bin\Debug\netcoreapp3.1\ProductServices.runtimeconfig.json
+C:\Users\ZK948AG\source\repos\Capstone_Delta\ProductServices\bin\Debug\netcoreapp3.1\ProductServices.runtimeconfig.dev.json
+C:\Users\ZK948AG\source\repos\Capstone_Delta\ProductServices\bin\Debug\netcoreapp3.1\ProductServices.dll
+C:\Users\ZK948AG\source\repos\Capstone_Delta\ProductServices\bin\Debug\netcoreapp3.1\ProductServices.pdb
+C:\Users\ZK948AG\source\repos\Capstone_Delta\ProductServices\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\ZK948AG\source\repos\Capstone_Delta\ProductServices\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\ZK948AG\source\repos\Capstone_Delta\ProductServices\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\ZK948AG\source\repos\Capstone_Delta\ProductServices\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\ZK948AG\source\repos\Capstone_Delta\ProductServices\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\ZK948AG\source\repos\Capstone_Delta\ProductServices\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\ZK948AG\source\repos\Capstone_Delta\ProductServices\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\ZK948AG\source\repos\Capstone_Delta\ProductServices\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\ZK948AG\source\repos\Capstone_Delta\ProductServices\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\ZK948AG\source\repos\Capstone_Delta\ProductServices\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\ZK948AG\source\repos\Capstone_Delta\ProductServices\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\ZK948AG\source\repos\Capstone_Delta\ProductServices\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\ZK948AG\source\repos\Capstone_Delta\ProductServices\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\ZK948AG\source\repos\Capstone_Delta\ProductServices\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\ZK948AG\source\repos\Capstone_Delta\ProductServices\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\ZK948AG\source\repos\Capstone_Delta\ProductServices\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ZK948AG\source\repos\Capstone_Delta\ProductServices\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\ZK948AG\source\repos\Capstone_Delta\ProductServices\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\ZK948AG\source\repos\Capstone_Delta\ProductServices\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\ZK948AG\source\repos\Capstone_Delta\ProductServices\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\ZK948AG\source\repos\Capstone_Delta\ProductServices\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\ZK948AG\source\repos\Capstone_Delta\ProductServices\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\ZK948AG\source\repos\Capstone_Delta\ProductServices\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\ZK948AG\source\repos\Capstone_Delta\ProductServices\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ZK948AG\source\repos\Capstone_Delta\ProductServices\obj\Debug\netcoreapp3.1\ProductServices.csproj.AssemblyReference.cache
+C:\Users\ZK948AG\source\repos\Capstone_Delta\ProductServices\obj\Debug\netcoreapp3.1\ProductServices.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ZK948AG\source\repos\Capstone_Delta\ProductServices\obj\Debug\netcoreapp3.1\ProductServices.AssemblyInfoInputs.cache
+C:\Users\ZK948AG\source\repos\Capstone_Delta\ProductServices\obj\Debug\netcoreapp3.1\ProductServices.AssemblyInfo.cs
+C:\Users\ZK948AG\source\repos\Capstone_Delta\ProductServices\obj\Debug\netcoreapp3.1\ProductServices.csproj.CoreCompileInputs.cache
+C:\Users\ZK948AG\source\repos\Capstone_Delta\ProductServices\obj\Debug\netcoreapp3.1\ProductServices.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\ZK948AG\source\repos\Capstone_Delta\ProductServices\obj\Debug\netcoreapp3.1\ProductServices.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ZK948AG\source\repos\Capstone_Delta\ProductServices\obj\Debug\netcoreapp3.1\staticwebassets\ProductServices.StaticWebAssets.Manifest.cache
+C:\Users\ZK948AG\source\repos\Capstone_Delta\ProductServices\obj\Debug\netcoreapp3.1\staticwebassets\ProductServices.StaticWebAssets.xml
+C:\Users\ZK948AG\source\repos\Capstone_Delta\ProductServices\obj\Debug\netcoreapp3.1\scopedcss\bundle\ProductServices.styles.css
+C:\Users\ZK948AG\source\repos\Capstone_Delta\ProductServices\obj\Debug\netcoreapp3.1\ProductServices.RazorTargetAssemblyInfo.cache
+C:\Users\ZK948AG\source\repos\Capstone_Delta\ProductServices\obj\Debug\netcoreapp3.1\ProductServices.csproj.CopyComplete
+C:\Users\ZK948AG\source\repos\Capstone_Delta\ProductServices\obj\Debug\netcoreapp3.1\ProductServices.dll
+C:\Users\ZK948AG\source\repos\Capstone_Delta\ProductServices\obj\Debug\netcoreapp3.1\ProductServices.pdb
+C:\Users\ZK948AG\source\repos\Capstone_Delta\ProductServices\obj\Debug\netcoreapp3.1\ProductServices.genruntimeconfig.cache
+C:\Users\ZK948AG\source\repos\Capstone_Delta\ProductServices\bin\Debug\netcoreapp3.1\MediatR.dll
+C:\Users\ZK948AG\source\repos\Capstone_Delta\ProductServices\bin\Debug\netcoreapp3.1\MediatR.Contracts.dll
+C:\Users\ZK948AG\source\repos\Capstone_Delta\ProductServices\bin\Debug\netcoreapp3.1\MediatR.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\ZK948AG\source\repos\Capstone_Delta\ProductServices\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\ZK948AG\OneDrive - EY\Documents\GitHub\Capstone\ProductServices\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\ZK948AG\OneDrive - EY\Documents\GitHub\Capstone\ProductServices\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\ZK948AG\OneDrive - EY\Documents\GitHub\Capstone\ProductServices\bin\Debug\netcoreapp3.1\ProductServices.exe
+C:\Users\ZK948AG\OneDrive - EY\Documents\GitHub\Capstone\ProductServices\bin\Debug\netcoreapp3.1\ProductServices.deps.json
+C:\Users\ZK948AG\OneDrive - EY\Documents\GitHub\Capstone\ProductServices\bin\Debug\netcoreapp3.1\ProductServices.runtimeconfig.json
+C:\Users\ZK948AG\OneDrive - EY\Documents\GitHub\Capstone\ProductServices\bin\Debug\netcoreapp3.1\ProductServices.runtimeconfig.dev.json
+C:\Users\ZK948AG\OneDrive - EY\Documents\GitHub\Capstone\ProductServices\bin\Debug\netcoreapp3.1\ProductServices.dll
+C:\Users\ZK948AG\OneDrive - EY\Documents\GitHub\Capstone\ProductServices\bin\Debug\netcoreapp3.1\ProductServices.pdb
+C:\Users\ZK948AG\OneDrive - EY\Documents\GitHub\Capstone\ProductServices\bin\Debug\netcoreapp3.1\MediatR.dll
+C:\Users\ZK948AG\OneDrive - EY\Documents\GitHub\Capstone\ProductServices\bin\Debug\netcoreapp3.1\MediatR.Contracts.dll
+C:\Users\ZK948AG\OneDrive - EY\Documents\GitHub\Capstone\ProductServices\bin\Debug\netcoreapp3.1\MediatR.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\ZK948AG\OneDrive - EY\Documents\GitHub\Capstone\ProductServices\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\ZK948AG\OneDrive - EY\Documents\GitHub\Capstone\ProductServices\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\ZK948AG\OneDrive - EY\Documents\GitHub\Capstone\ProductServices\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\ZK948AG\OneDrive - EY\Documents\GitHub\Capstone\ProductServices\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\ZK948AG\OneDrive - EY\Documents\GitHub\Capstone\ProductServices\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\ZK948AG\OneDrive - EY\Documents\GitHub\Capstone\ProductServices\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\ZK948AG\OneDrive - EY\Documents\GitHub\Capstone\ProductServices\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\ZK948AG\OneDrive - EY\Documents\GitHub\Capstone\ProductServices\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\ZK948AG\OneDrive - EY\Documents\GitHub\Capstone\ProductServices\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\ZK948AG\OneDrive - EY\Documents\GitHub\Capstone\ProductServices\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\ZK948AG\OneDrive - EY\Documents\GitHub\Capstone\ProductServices\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\ZK948AG\OneDrive - EY\Documents\GitHub\Capstone\ProductServices\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\ZK948AG\OneDrive - EY\Documents\GitHub\Capstone\ProductServices\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\ZK948AG\OneDrive - EY\Documents\GitHub\Capstone\ProductServices\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\ZK948AG\OneDrive - EY\Documents\GitHub\Capstone\ProductServices\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\ZK948AG\OneDrive - EY\Documents\GitHub\Capstone\ProductServices\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\ZK948AG\OneDrive - EY\Documents\GitHub\Capstone\ProductServices\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ZK948AG\OneDrive - EY\Documents\GitHub\Capstone\ProductServices\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\ZK948AG\OneDrive - EY\Documents\GitHub\Capstone\ProductServices\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\ZK948AG\OneDrive - EY\Documents\GitHub\Capstone\ProductServices\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\ZK948AG\OneDrive - EY\Documents\GitHub\Capstone\ProductServices\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\ZK948AG\OneDrive - EY\Documents\GitHub\Capstone\ProductServices\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\ZK948AG\OneDrive - EY\Documents\GitHub\Capstone\ProductServices\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\ZK948AG\OneDrive - EY\Documents\GitHub\Capstone\ProductServices\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\ZK948AG\OneDrive - EY\Documents\GitHub\Capstone\ProductServices\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ZK948AG\OneDrive - EY\Documents\GitHub\Capstone\ProductServices\obj\Debug\netcoreapp3.1\ProductServices.csproj.AssemblyReference.cache
+C:\Users\ZK948AG\OneDrive - EY\Documents\GitHub\Capstone\ProductServices\obj\Debug\netcoreapp3.1\ProductServices.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ZK948AG\OneDrive - EY\Documents\GitHub\Capstone\ProductServices\obj\Debug\netcoreapp3.1\ProductServices.AssemblyInfoInputs.cache
+C:\Users\ZK948AG\OneDrive - EY\Documents\GitHub\Capstone\ProductServices\obj\Debug\netcoreapp3.1\ProductServices.AssemblyInfo.cs
+C:\Users\ZK948AG\OneDrive - EY\Documents\GitHub\Capstone\ProductServices\obj\Debug\netcoreapp3.1\ProductServices.csproj.CoreCompileInputs.cache
+C:\Users\ZK948AG\OneDrive - EY\Documents\GitHub\Capstone\ProductServices\obj\Debug\netcoreapp3.1\ProductServices.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\ZK948AG\OneDrive - EY\Documents\GitHub\Capstone\ProductServices\obj\Debug\netcoreapp3.1\ProductServices.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ZK948AG\OneDrive - EY\Documents\GitHub\Capstone\ProductServices\obj\Debug\netcoreapp3.1\staticwebassets\ProductServices.StaticWebAssets.Manifest.cache
+C:\Users\ZK948AG\OneDrive - EY\Documents\GitHub\Capstone\ProductServices\obj\Debug\netcoreapp3.1\staticwebassets\ProductServices.StaticWebAssets.xml
+C:\Users\ZK948AG\OneDrive - EY\Documents\GitHub\Capstone\ProductServices\obj\Debug\netcoreapp3.1\scopedcss\bundle\ProductServices.styles.css
+C:\Users\ZK948AG\OneDrive - EY\Documents\GitHub\Capstone\ProductServices\obj\Debug\netcoreapp3.1\ProductServices.RazorTargetAssemblyInfo.cache
+C:\Users\ZK948AG\OneDrive - EY\Documents\GitHub\Capstone\ProductServices\obj\Debug\netcoreapp3.1\ProductServices.csproj.CopyComplete
+C:\Users\ZK948AG\OneDrive - EY\Documents\GitHub\Capstone\ProductServices\obj\Debug\netcoreapp3.1\ProductServices.dll
+C:\Users\ZK948AG\OneDrive - EY\Documents\GitHub\Capstone\ProductServices\obj\Debug\netcoreapp3.1\ProductServices.pdb
+C:\Users\ZK948AG\OneDrive - EY\Documents\GitHub\Capstone\ProductServices\obj\Debug\netcoreapp3.1\ProductServices.genruntimeconfig.cache
