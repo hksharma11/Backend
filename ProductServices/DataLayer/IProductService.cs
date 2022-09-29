@@ -8,7 +8,7 @@ namespace ProductServices.DataLayer
 {
     public interface IProductService
     {
-        EcomProducts AddProduct(int categoryId, string productName, string productType, decimal productPrice, string productDescription);
+        EcomProducts AddProduct(EcomProducts product);
         List<EcomProducts> GetAllProducts();
 
         EcomProducts GetProductById(int productId);

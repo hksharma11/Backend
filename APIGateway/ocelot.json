@@ -74,6 +74,21 @@
       "UpstreamHttpMethod": [ "POST" ]
     },
 
+    {
+      "DownstreamPathTemplate": "/api/Login/GetLoginByUserId/{userId}",
+      "DownstreamScheme": "https",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": "44304"
+        }
+      ],
+
+
+      "UpstreamPathTemplate": "/api/login/user/{userId}",
+      "UpstreamHttpMethod": [ "GET" ]
+    },
+
     // Orders
 
     {
@@ -168,7 +183,7 @@
       "UpstreamHttpMethod": [ "GET" ]
     },
     {
-      "DownstreamPathTemplate": "/api/Product/AddProduct/{categoryId}/{productName}/{productType}/{productPrice}/{productDescription}",
+      "DownstreamPathTemplate": "/api/Product/AddProduct",
       "DownstreamScheme": "https",
       "DownstreamHostAndPorts": [
         {
@@ -178,12 +193,24 @@
       ],
 
 
-      "UpstreamPathTemplate": "/api/AddProduct/{categoryId}/{productName}/{productType}/{productPrice}/{productDescription}",
+      "UpstreamPathTemplate": "/api/AddProduct",
       "UpstreamHttpMethod": [ "POST" ]
     },
 
     //UserService
-
+ 
+    {
+      "DownstreamPathTemplate": "/api/User/GetCustomerByLoginId/{id}",
+      "DownstreamScheme": "https",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": "44369"
+        }
+      ],
+      "UpstreamPathTemplate": "/api/customer/login/{id}",
+      "UpstreamHttpMethod": [ "GET" ]
+    },
 
     {
       "DownstreamPathTemplate": "/api/User/AddCustomer/{customerName}/{customerAddress}/{customerPhone}/{customerEmail}/{loginId}",
@@ -209,6 +236,8 @@
       "UpstreamPathTemplate": "/api/customer/{customerId}",
       "UpstreamHttpMethod": [ "GET" ]
     }
+
+
   ]
 
 }

@@ -37,10 +37,10 @@ namespace ProductServices.Controllers
             return await mediator.Send(new GetProductByIdQuery { productId=productId});
         }
 
-        [HttpPost("AddProduct/{categoryId}/{productName}/{productType}/{productPrice}/{productDescription}")]
-        public async Task<EcomProducts> AddProduct(int categoryId,string productName, string productType,decimal productPrice, string productDescription)
+        [HttpPost("AddProduct")]
+        public async Task<EcomProducts> AddProduct([FromBody] EcomProducts prod)
         {
-            return await mediator.Send(new AddProductCommand {categoryId=categoryId, productName=productName,productType=productType,productPrice=productPrice,productDescription=productDescription });
+            return await mediator.Send(new AddProductCommand {product=prod});
         }
 
 

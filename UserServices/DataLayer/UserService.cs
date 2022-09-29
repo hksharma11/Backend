@@ -37,5 +37,10 @@ namespace UserServices.DataLayer
         {
             return db.EcomCustomers.SingleOrDefault(x => x.CustomerId == customerId);
         }
+
+        public EcomCustomers GetCustomerByLoginId(int loginId)
+        {
+            return db.EcomCustomers.SingleOrDefault(x => x.LoginId == loginId);
+        }
     }
 }

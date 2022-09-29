@@ -10,6 +10,8 @@ namespace UserServices.DataLayer
     {
         EcomCustomers GetCustomerById(int customerId);
 
+        EcomCustomers GetCustomerByLoginId(int loginId);
+
         EcomCustomers AddCustomer(string customerName, string customerAddress, string customerPhone, string customerEmail, int loginId);
     }
 }

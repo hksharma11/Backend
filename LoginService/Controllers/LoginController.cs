@@ -34,5 +34,12 @@ namespace LoginService.Controllers
         {
             return await mediator.Send(new AddLoginCommand {password=password,token=token, datetime=datetime,loginRole=loginRole, UserId=userId });
         }
+
+
+        [HttpGet("GetLoginByUserId/{userId}")]
+        public async Task<EcomLogin> GetLoginByUserId(string userId)
+        {
+            return await mediator.Send(new GetLoginByUserIdQuery { userId=userId});
+        }
     }
 }

@@ -34,6 +34,14 @@ namespace LoginService
             services.AddDbContext<EcomContext>(option => option.UseSqlServer(Configuration.GetConnectionString("Datalink")));
             services.AddTransient<ILoginService, LoginServices>();
             services.AddMediatR(typeof(Startup).Assembly);
+            services.AddCors(options =>
+            {
+                options.AddPolicy("CorsPolicy",
+                    builder => builder.WithOrigins("http://localhost:4200")
+                        .AllowAnyMethod()
+                        .AllowAnyHeader()
+                        .AllowCredentials());
+            });
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
@@ -43,6 +51,7 @@ namespace LoginService
             {
                 app.UseDeveloperExceptionPage();
             }
+            app.UseCors("CorsPolicy");
             app.UseSwagger();
             app.UseSwaggerUI(op => {
                 op.SwaggerEndpoint("/swagger/v1/swagger.json", "v1");

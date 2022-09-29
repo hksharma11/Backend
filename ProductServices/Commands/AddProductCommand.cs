@@ -9,17 +9,19 @@ namespace ProductServices.Commands
 {
     public class AddProductCommand : IRequest<EcomProducts>
     {
-        
+        public EcomProducts product { get; set; }
 
-        public int categoryId { get; set; }
+        //public int categoryId { get; set; }
 
-        public string productName { get; set; }
+        //public string productName { get; set; }
 
-        public string productType { get; set; }
+        //public string productType { get; set; }
 
-        public decimal productPrice { get; set; }
+        //public decimal productPrice { get; set; }
 
-        public string productDescription { get; set; }
+        //public string productDescription { get; set; }
+
+        //public string image { get; set; }
 
     }
 }

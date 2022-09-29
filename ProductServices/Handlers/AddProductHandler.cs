@@ -21,7 +21,7 @@ namespace ProductServices.Handlers
 
         public async Task<EcomProducts> Handle(AddProductCommand request, CancellationToken cancellationToken)
         {
-            return await Task.FromResult(productService.AddProduct(request.categoryId, request.productName, request.productType, request.productPrice, request.productDescription));
+            return await Task.FromResult(productService.AddProduct(request.product));
         }
     }
 }

@@ -11,5 +11,7 @@ namespace LoginService.DataLayer
         EcomLogin GetLoginById(int loginId);
 
         EcomLogin AddLogin(string password, string token, DateTime datetime, string loginRole, string userId);
+
+        EcomLogin GetLoginByUserId(string userId);
     }
 }

@@ -28,6 +28,12 @@ namespace UserServices.Controllers
             return await mediator.Send(new GetCustomerByIdQuery { CustomerId=customerId});
         }
 
+        [HttpGet("GetCustomerByLoginId/{id}")]
+        public async Task<EcomCustomers> GetCustomerByLoginId(int id)
+        {
+            return await mediator.Send(new GetCustomerByLoginId { loginId=id});
+        }
+
         [HttpPost("AddCustomer/{customerName}/{customerAddress}/{customerPhone}/{customerEmail}/{loginId}")]
         public async Task<EcomCustomers> AddCustomer(string customerName, string customerAddress, string customerPhone, string customerEmail,int loginId)
         {

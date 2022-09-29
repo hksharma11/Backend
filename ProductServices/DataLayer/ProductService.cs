@@ -15,22 +15,15 @@ namespace ProductServices.DataLayer
             this.db = db;
         }
 
-        public EcomProducts AddProduct(int categoryId, string productName, string productType, decimal productPrice, string productDescription)
+        public EcomProducts AddProduct(EcomProducts product)
         {
-            var prod = new EcomProducts()
-            {
-                CategoryId = categoryId,
-                ProductName=productName,
-                ProductType=productType,
-                ProductPrice= productPrice,
-                ProductDescription = productDescription
-            };
-
            
 
-            db.EcomProducts.Add(prod);
+         
+
+            db.EcomProducts.Add(product);
             db.SaveChanges();
-            return prod;
+            return product;
 
         }
 
