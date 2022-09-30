@@ -36,5 +36,10 @@ namespace ProductServices.DataLayer
         {
             return db.EcomProducts.SingleOrDefault(x => x.ProductId == productId);
         }
+
+        public List<EcomProducts> GetProductByCategoryId(int catId)
+        {
+            return db.EcomProducts.Where(x => x.CategoryId == catId).ToList();
+        }
     }
 }

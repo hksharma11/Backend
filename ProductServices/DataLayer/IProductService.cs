@@ -12,5 +12,7 @@ namespace ProductServices.DataLayer
         List<EcomProducts> GetAllProducts();
 
         EcomProducts GetProductById(int productId);
+
+        List<EcomProducts> GetProductByCategoryId(int catId);
     }
 }

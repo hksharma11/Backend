@@ -168,6 +168,22 @@
       "UpstreamPathTemplate": "/api/products",
       "UpstreamHttpMethod": [ "GET" ]
     },
+
+    {
+      "DownstreamPathTemplate": "/api/Product/GetProductByCategoryId/{catId}",
+      "DownstreamScheme": "https",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": "44324"
+        }
+      ],
+
+
+      "UpstreamPathTemplate": "/api/products/catgory/{catId}",
+      "UpstreamHttpMethod": [ "GET" ]
+    },
+
     {
       "DownstreamPathTemplate": "/api/Product/GetProductById/{productId}",
       "DownstreamScheme": "https",
@@ -197,8 +213,10 @@
       "UpstreamHttpMethod": [ "POST" ]
     },
 
+  
+
     //UserService
- 
+
     {
       "DownstreamPathTemplate": "/api/User/GetCustomerByLoginId/{id}",
       "DownstreamScheme": "https",

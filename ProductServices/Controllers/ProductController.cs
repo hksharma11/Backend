@@ -30,6 +30,11 @@ namespace ProductServices.Controllers
             return await mediator.Send(new GetAllProductsQuery());
         }
 
+        [HttpGet("GetProductByCategoryId/{catId}")]
+        public async Task<List<EcomProducts>> GetProductByCategoryId(int catId)
+        {
+            return await mediator.Send(new GetProductByCategoryIdQuery { catId=catId });
+        }
 
         [HttpGet("GetProductById/{productId}")]
         public async Task<EcomProducts> GetProductbyId(int productId)
